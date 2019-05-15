@@ -1,0 +1,19 @@
+{
+  "name": "graphql-workshop-starter",
+  "version": "1.0.0",
+  "description": "A graphql workshop for beginners",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}

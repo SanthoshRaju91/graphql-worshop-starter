@@ -1,0 +1,63 @@
+{
+  "users": {
+    "1": {
+      "firstname": "Chris",
+      "lastname": "Nolan",
+      "bio": "Film director with greater sense of vision",
+      "age": 43,
+      "bookslist": [2, 3, 5]
+    },
+    "2": {
+      "firstname": "Robert",
+      "lastname": "Downey",
+      "bio": "Amazing actor, with actual sense of humor",
+      "age": 40,
+      "bookslist": [1, 4, 6]
+    },
+    "3": {
+      "firstname": "Leonardo",
+      "lastname": "Di Caprio",
+      "bio": "Actor, screen artist in real life",
+      "age": 44,
+      "bookslist": [2, 4, 6]
+    }
+  },
+  "books": {
+    "1": {
+      "name": "The Alchemist",
+      "description": "The Alchemist follows a young Andalusian shepherd in his journey to the pyramids of Egypt, after having a recurring dream of finding a treasure there",
+      "genre": "Novel, Drama, Quest, Fantasy Fiction, Adventure fiction",
+      "author": "Paulo Coelho"
+    },
+    "2": {
+      "name": "Monk Who Sold His Ferrari",
+      "description": "The book is a business fable derived from Sharma's personal experiences after leaving his career as a litigation lawyer at the age of 25.",
+      "genre": "Fiction",
+      "author": "Robin Sharma"
+    },
+    "3": {
+      "name": "The Immortals of Meluha",
+      "description": "The story is set in the land of Meluha and starts with the arrival of the Shiva. The Meluhans believe that Shiva is their fabled saviour Neelkanth.",
+      "genre": "Fairy tale, Fantasy, Fantasy Fiction, High fantasy",
+      "author": "Amish Tripathi"
+    },
+    "4": {
+      "name": "Scion of Ikshvaku",
+      "description": "It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu.",
+      "genre": "Historical Fiction, Fantasy Fiction, High fantasy, Biographical Fiction, Religious Fiction",
+      "author": "Amish Tripathi"
+    },
+    "5": {
+      "name": "Origin",
+      "description": "Edmond Kirsch, a billionaire computer scientist and futurist, as well as a strident atheist, attends a meeting in Catalonia with Roman Catholic Bishop Antonio Valdespino, Jewish moragi Yehuda Köves, and Muslim Imam Syed al-Fadl, three members of the Parliament of the World's Religions. He informs them that he has made a revolutionary discovery that he plans to release to the public in a month.",
+      "genre": "Thriller, Mystery, Suspense, Crime Fiction, Adventure fiction",
+      "author": "Dan Brown"
+    },
+    "6": {
+      "name": "Inferno",
+      "description": "Harvard professor Robert Langdon wakes up in a hospital in Florence, Italy with a head wound and no memory of the last few days. Dr. Sienna Brooks, one of the doctors tending to him, reveals that he is suffering from amnesia.",
+      "genre": "Thriller, Mystery, Suspense, Detective fiction, Adventure fiction, Conspiracy fiction",
+      "author": "Dan Brown"
+    }
+  }
+}
